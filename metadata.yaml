@@ -1,0 +1,28 @@
+_repo: Secrets-of-the-Woods_1901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
+description: Wood Folk Series, Book Three
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Zoology -- Juvenile literature'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Animal behavior -- Juvenile literature'
+- GITenberg
+title: Secrets of the Woods
+url: http://www.gutenberg.org/ebooks/1901
